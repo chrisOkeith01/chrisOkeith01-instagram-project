@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-family: Verdana;
+  border: solid 2px red;
+}
+.feed {
+  color: red;
+  font-family: courier;
+  border: solid 2px green;
+}
+
+.post {
+  color: blueviolet;
+  border: solid 2px blue;
+  margin-left: 33%;
+  margin-right: 33%;
+  padding: 0;
+  max-width: 450px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+}
